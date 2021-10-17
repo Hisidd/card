@@ -147,7 +147,7 @@ audio:hover{
     justify-content: right;
     align-items: flex-end;
     background-color: #80008091;
-    background: linear-gradient(rgba(126, 99, 99, 0.5), rgba(0,0,0,0.7)), url(Cute\ Sister.jpg) center no-repeat;
+    background: linear-gradient(rgba(126, 99, 99, 0.5), rgba(0,0,0,0.7)), url(Cute.jpg) center no-repeat;
     z-index: -1;
     transform: translateZ(-300px);
     transition: z-index 0.4s step-end, transform 1s;
