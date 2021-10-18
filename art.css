@@ -70,7 +70,6 @@ audio:hover{
     display: flex;
     justify-content: right;
     align-items: flex-end;
-    background-color: hsla(133, 75%, 47%, 0.562);
     background: linear-gradient(rgba(126, 99, 99, 0.5), rgba(0,0,0,0.7)), url(Arwish.jpg) center no-repeat;
     z-index: -1;
     transform: translateZ(-300px);
@@ -146,7 +145,6 @@ audio:hover{
     display: flex;
     justify-content: right;
     align-items: flex-end;
-    background-color: #80008091;
     background: linear-gradient(rgba(126, 99, 99, 0.5), rgba(0,0,0,0.7)), url(Cute.jpg) center no-repeat;
     z-index: -1;
     transform: translateZ(-300px);
@@ -201,3 +199,16 @@ audio:hover{
     text-align: center;
     padding: 10px;
 }
+
+.Mumma,.zaza:hover {
+    color: blue;
+}
+
+.Brothers,.sister:hover {
+    color: red;
+}
+
+a:hover {
+    color: crimson;
+}
+
